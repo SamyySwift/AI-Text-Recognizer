@@ -1,1 +1,5 @@
-AI Text Recognizer
+  #Overview:
+  
+  #Depencies
+  
+  #Functionalities
