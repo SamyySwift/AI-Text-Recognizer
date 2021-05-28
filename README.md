@@ -13,3 +13,8 @@ The Text Recognizer App uses computer vision to scan images and then extracts th
 * Clear - clears the text and loaded image.
 * Mic Button - converts text to speech.
 * Stop Button - Stops the speech synthesis.
+
+# How to Install
+Build the apk using android studio or vs code.
+
+Feel free to contribute to the project.
